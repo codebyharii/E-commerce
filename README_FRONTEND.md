@@ -27,6 +27,7 @@ npm run dev
 cp .env.example .env
 ```
 
+
 ### 2. Configure API URL
 
 Edit `.env`:
@@ -313,6 +314,3 @@ npm test -- --coverage
 - **Axios** 1.6.5 - HTTP client
 - **React Router** 6.21.1 - Routing
 
-## 📝 License
-
-MIT License
