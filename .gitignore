@@ -1,0 +1,23 @@
+# Dependencies - NEVER commit
+node_modules/
+smartcontent-frontend/node_modules/
+
+# Environment files - NEVER commit
+.env
+*.env
+
+# Backend build
+smartcontent-backend/target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Frontend build
+smartcontent-frontend/dist/
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
