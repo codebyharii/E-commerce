@@ -71,7 +71,7 @@ A modern full-stack application for intelligent content management with AI-power
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack.
 
 ### Backend
 - **Java 17** - Programming language
